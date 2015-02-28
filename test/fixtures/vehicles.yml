@@ -1,0 +1,6 @@
+truck:
+  name: Goldfish
+  make: Chevy
+  model: pickup
+  year: 1989
+  engine_type: v6
