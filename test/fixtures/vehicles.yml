@@ -1,6 +1,15 @@
-truck:
-  name: Goldfish
-  make: Chevy
-  model: pickup
-  year: 1989
-  engine_type: v6
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  make: MyString
+  model: MyString
+  year: MyString
+  engine_type: MyString
+
+two:
+  name: MyString
+  make: MyString
+  model: MyString
+  year: MyString
+  engine_type: MyString
